@@ -141,3 +141,7 @@ end
 
 This project successfully demonstrated the design and simulation of a digital FIR filter in both Verilog and MATLAB. The filter accurately processed discrete input signals using fixed coefficients and performed real-time convolution, achieving the desired signal filtering. The Verilog model provides a solid base for hardware implementation, while MATLAB offers rapid prototyping and visualization. Together, they offer a powerful approach to designing and verifying digital signal processing systems.
 
+**OUTPUT** :
+![Image](https://github.com/user-attachments/assets/0d0fdbe5-d1aa-46a6-8b62-684798e3f97e)
+![Image](https://github.com/user-attachments/assets/3d3079a0-fb9b-44f2-aa8a-12c35b50d99b)
+
